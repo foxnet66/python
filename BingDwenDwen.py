@@ -8,7 +8,7 @@ turtle.speed(50)  # speed
 # top of head
 turtle.penup()
 turtle.goto(-73, 230)
-turtle.pencolor("lightgray")
+turtle.pencolor("lightgray") #can change the color of costume, such as lightblue
 turtle.pensize(3)
 turtle.fillcolor("white")
 turtle.begin_fill()
@@ -54,7 +54,7 @@ turtle.end_fill()
 # left hand
 turtle.penup()
 turtle.goto(177, 112)
-turtle.pencolor("lightgray")
+turtle.pencolor("lightgray") #can change the color of costume, such as lightblue
 turtle.pensize(3)
 turtle.fillcolor("white")
 turtle.begin_fill()
