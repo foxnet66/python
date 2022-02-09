@@ -1,0 +1,23 @@
+1. 访问 https://www.python.org/downloads/windows/
+选择一个版本安装，这里推荐安装最新稳定版
+比如 https://www.python.org/downloads/release/python-3910/
+
+2. 在页面最下边的下载列表中选择对应的操作系统版本
+  windows embeddable package 是压缩包版本，即便携版，解压可用
+  windows installer 是可执行的安装版本，即离线版，下载到本地后可以直接安装
+3. 请确认您的windows是32位还是64位，点击下载
+4. 双击下载的可执行安装包
+5. 如果出现的界面包含 modify/Repair/Unistall，说明你的电脑已经安装过 Python了
+   如果你是第一次安装，
+   请勾选
+   Add Python 3.9 to PATH 和
+   Install luncher for all users (recommended)选项
+   并选择customize installation（自定义安装），
+6. 下一页的Options Features请默认全选，按next按钮
+7. Advanced Options（高级选项）页中，勾选下面三项
+   Associated files with Python (requires the py launcher)
+   Create shortcuts for installed applications
+   Add Python to environment variables
+   并将安装路径请更改为指定目录（最好为根目录下的目录，不要有汉字）
+8. 点击Install（安装）即可
+
