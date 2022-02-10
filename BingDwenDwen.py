@@ -1,3 +1,7 @@
+#Author: James Wang
+#Updated: 10 Feb 2022
+#Version: 1.02
+
 import turtle
 
 turtle.title('PythonBingDwenDwen')
