@@ -6,7 +6,7 @@ import turtle
 
 turtle.title('PythonBingDwenDwen')
 
-turtle.speed(50)  # speed
+turtle.speed(100)  # drawing speed, slow:50, normal: 100, fast: 200
 
 # outline
 # top of head
