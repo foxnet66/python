@@ -1,3 +1,7 @@
+#Author: James Wang
+#Updated: 12 Feb 2022
+#Version: 1.01
+
 import turtle
 
 turtle.title('PythonShueyRhonRhon')
