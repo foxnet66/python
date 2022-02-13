@@ -138,7 +138,7 @@ turtle.right(38)
 turtle.circle(36, 107)
 turtle.circle(-15, 55)
 turtle.right(22)
-turtle.circle(32, 120)
+turtle.circle(37, 117)
 turtle.end_fill()
 #cheek
 #left
